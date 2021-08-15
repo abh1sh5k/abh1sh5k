@@ -1,7 +1,7 @@
 # Abhishek Krishna  <img src="./media/Mario_Hello_Big.gif" width="30px">
 
 ### <img src="./media/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="./media/Earth.gif" width="24px">
-<img align="right" src="./media/ml.gif" width="210px">
+<!--<img align="right" src="./media/ml.gif" width="210px">-->
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://www.dtu.ac.in/"> <b>Delhi Technological University</b>, New Delhi</a>.<br>  
