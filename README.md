@@ -1,7 +1,7 @@
 # Abhishek Krishna  <img src="./media/Mario_Hello_Big.gif" width="30px">
 
 ### <img src="./media/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="./media/Earth.gif" width="24px">
-<img align="right" src="./media/ml.gif" width="300px">
+<img align="right" src="./media/ml.gif" width="210px">
 <p>
   <em>
     I am a Final Year undergraduate from <a href="https://www.dtu.ac.in/"> <b>Delhi Technological University</b>, New Delhi</a>.<br>  
@@ -22,7 +22,6 @@
 <!--[<img align="left" alt="tensoflow lite" width="26px" height="38px" src="https://2.bp.blogspot.com/-mNcMMMsyQCc/XpT0ReRUTBI/AAAAAAAAC-g/-yQX6bCqbxEuSAlDNSUPQkytsn6Ml8qrQCLcBGAsYHQ/s1600/Screen%2BShot%2B2020-04-13%2Bat%2B4.22.27%2BPM.png" />][tflite] -->
 [<img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />][pytorch]
 [<img align="left" alt="Raspberry Pi" width="26px" src="https://www.raspberrypi.org/app/uploads/2011/10/Raspi-PGB001.png" />][Raspberry Pi]
-<br />
 <br />
 <br />
 
