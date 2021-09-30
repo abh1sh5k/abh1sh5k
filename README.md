@@ -4,7 +4,7 @@
 <!--<img align="right" src="./media/ml.gif" width="210px">-->
 <p>
   <em>
-    I am a Final Year undergraduate from <a href="https://www.dtu.ac.in/"> <b>Delhi Technological University</b>, New Delhi</a>.<br>  
+    I am a Final Year undergraduate from <a href="http://www.dtu.ac.in/"> <b>Delhi Technological University</b>, New Delhi</a>.<br>  
     A <b>Software Engineer</b> <img src="./media/Developer.gif" width="32px"> and a <b>Machine Learning Enthusiast <img src="https://asgardia.space/crop/600x338/storage/blog/attachments/c9/ae/c9aed251433cf3fd455bae70a24d5e865533c1872e77c3bc7161de326ca269f7.gif" width="32px">.
   </em>  
 </p>
